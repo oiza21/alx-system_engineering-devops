@@ -1,0 +1,2 @@
+#!/bin/bash
+eecho $((2#$BEST School))
